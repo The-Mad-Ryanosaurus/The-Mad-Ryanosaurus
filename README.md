@@ -11,8 +11,6 @@ Ryan is an experienced Software Engineer with a solid foundation in frameworks s
 * 🚀  I'm currently working on [CompTIA A+ Certificate](http://www.comptia.org/certifications/a)
 * 🧠  I'm learning and enhancing my understanding of React, TypeScript, and JavaScript to further sharpen my skills.
 
-### Skills
-
 <p align="left">
 <h3>Languages</h3>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
