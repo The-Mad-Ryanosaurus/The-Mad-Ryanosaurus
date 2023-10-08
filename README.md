@@ -4,7 +4,7 @@ Hi! My name is Ryan Harte.
 Software Engineer, Developer, IT Technical Repairs
 --------------------------------------------------
 
-Ryan is an experienced Software Engineer with a solid foundation in frameworks such as React, Ionic and Angular. Language proficiences include JavaScript, TypeScript, Java and C#. Ryan excels at problem-solving and is committed to continuous learning. Additionally, he offers expertise in IT repairs, handling both mobile devices and computer systems with proficiency.
+I am an experienced Software Engineer with a solid foundation in frameworks such as React, Ionic and Angular. Language proficiences include JavaScript, TypeScript, Java and C#. I excel at problem-solving and am committed to continuous learning. Additionally, I offer expertise in IT repairs, handling both mobile devices and computer systems with proficiency.
 
 * 🌍  I'm based in Galway, Ireland
 * ✉️  You can contact me at [ryanharte1997@gmail.com](mailto:ryanharte1997@gmail.com)
