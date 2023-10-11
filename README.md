@@ -1,4 +1,5 @@
-🎆Ryan Harte🎆
+![image](https://github.com/The-Mad-Ryanosaurus/The-Mad-Ryanosaurus/assets/94619708/8556192f-944a-48cb-bedc-15efd4330b64) Ryan Harte ![image](https://github.com/The-Mad-Ryanosaurus/The-Mad-Ryanosaurus/assets/94619708/b3e5d4c3-bea5-4418-b793-afbb442c029d)
+
 ===================================================================================================================================
 
 Software Engineer, Developer, IT Support
