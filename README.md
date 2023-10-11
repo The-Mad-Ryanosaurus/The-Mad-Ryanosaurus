@@ -31,7 +31,7 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <h3>Software Testing</h3>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="	https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a>
 <h3>Game Engines</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" /></a>
 <h3>Platforms</h3>
