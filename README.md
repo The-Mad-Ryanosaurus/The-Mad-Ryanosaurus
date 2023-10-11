@@ -24,7 +24,7 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <h3>Backend and Databases</h3>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thu…Windows_11_logo.svg/120px-Windows_11_logo.svg.png" width="36" height="36" alt="Windows" /></a>
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="36" height="36" alt="Windows" /></a>
 </p>
 
 ### Socials
