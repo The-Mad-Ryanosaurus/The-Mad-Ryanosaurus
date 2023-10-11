@@ -1,4 +1,4 @@
-Hi! My name is Ryan Harte.
+Ryan Harte.
 ===================================================================================================================================
 
 Software Engineer, Developer, IT Technical Repairs
