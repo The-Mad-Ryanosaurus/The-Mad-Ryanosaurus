@@ -31,14 +31,13 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <h3>Software Testing</h3>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos…ef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="36" height="36" alt="Selenium" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="	https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a>
 <h3>Game Engines</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" /></a>
 <h3>Platforms</h3>
 <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="36" height="36" alt="Windows" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/69341/apple-logo.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
 </p>
 
 ### Socials
