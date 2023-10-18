@@ -1,4 +1,9 @@
-Ryan Harte [![firework](https://cdn3.emoji.gg/emojis/5088-firework.gif)](https://emoji.gg/emoji/5088-firework)
+<div style="text-align:center;">
+    <a href="https://emoji.gg/emoji/5088-firework">
+        <img src="https://cdn3.emoji.gg/emojis/5088-firework.gif" alt="firework" style="display:block; margin:auto;">
+    </a>
+    Ryan Harte
+</div>
 ===================================================================================================================================
 
 Software Engineer, Developer, IT Support
