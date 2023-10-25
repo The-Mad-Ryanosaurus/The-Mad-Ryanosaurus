@@ -25,9 +25,9 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="36" height="36" alt="Ionic" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><br>
-<h3>Backend and Databases</h3>  
 </p>
 <p align="right">
+<h3>Backend and Databases</h3>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
