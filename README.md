@@ -16,6 +16,8 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
     <th>First Header</th>
     <td>Content from cell 1</td>
     <td>Content in the first column</td>
+  </tr>
+  <tr>
     <th>Second Header</th>
     <td>Content from cell 2</td>
     <td>Content in the second column</td>
@@ -24,6 +26,8 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
     <th>Third Header</th>
     <td>Content for third header</td>
     <td>More content for third</td>
+  </tr>
+  <tr>
     <th>Fourth Header</th>
     <td>Content for fourth header</td>
     <td>More content for fourth</td>
