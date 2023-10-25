@@ -11,39 +11,23 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 * 💻  I'm currently working on [an AI-Integrated messaging application.](http://github.com/The-Mad-Ryanosaurus/Final-Year-Project.git) 
 * 🧠  I'm learning and enhancing my understanding of React, JavaScript, and TypeScript to further sharpen my skills.
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="display: flex; flex-direction: column;">
-        <div>
-            <h3>Languages</h3>
-            <!-- Your language icons here -->
-        </div>
-        <div>
-            <h3>Frameworks</h3>
-            <!-- Your framework icons here -->
-        </div>
-    </div>
-    <div style="display: flex; justify-content: space-between;">
-    <div style="display: flex; flex-direction: column;">
-        <div>
-            <h3>Backend and Databases</h3>
-            <!-- Your backend and database icons here -->
-        </div>
-        <div>
-            <h3>Software Testing</h3>
-            <!-- Your software testing icons here -->
-        </div>
-        <div>
-            <h3>Game Engines</h3>
-            <!-- Your game engine icons here -->
-        </div>
-        <div>
-            <h3>Platforms</h3>
-            <!-- Your platform icons here -->
-        </div>
-    </div>
-</div>
-<div align="center">
-    <h3>Socials</h3>
-    <!-- Your social icons here -->
-</div>
-</div>
+<table>
+  <tr>
+    <th>First Header</th>
+    <th>Second Header</th>
+    <th>Third Header</th>
+    <th>Fourth Header</th>
+  </tr>
+  <tr>
+    <td>Content from cell 1</td>
+    <td>Content from cell 2</td>
+    <td>Content for third header</td>
+    <td>Content for fourth header</td>
+  </tr>
+  <tr>
+    <td>Content in the first column</td>
+    <td>Content in the second column</td>
+    <td>More content for third</td>
+    <td>More content for fourth</td>
+  </tr>
+</table>
