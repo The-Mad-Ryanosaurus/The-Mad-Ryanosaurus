@@ -11,7 +11,7 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 * 💻  I'm currently working on [an AI-Integrated messaging application.](http://github.com/The-Mad-Ryanosaurus/Final-Year-Project.git) 
 * 🧠  I'm learning and enhancing my understanding of React, JavaScript, and TypeScript to further sharpen my skills.
 
-<div align="centre">
+<div align="center">
 <table>
     <tr>
         <th>Languages</th>
