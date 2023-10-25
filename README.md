@@ -14,22 +14,29 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <table>
   <tr>
     <th>First Header</th>
-    <td>Content from cell 1</td>
-    <td>Content in the first column</td>
+    <th>Second Header</th>
   </tr>
   <tr>
-    <th>Second Header</th>
+    <td>Content from cell 1</td>
     <td>Content from cell 2</td>
+  </tr>
+  <tr>
+    <td>Content in the first column</td>
     <td>Content in the second column</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <th>Third Header</th>
-    <td>Content for third header</td>
-    <td>More content for third</td>
+    <th>First Header</th>
+    <th>Second Header</th>
   </tr>
   <tr>
-    <th>Fourth Header</th>
-    <td>Content for fourth header</td>
-    <td>More content for fourth</td>
+    <td>Content from cell 1</td>
+    <td>Content from cell 2</td>
+  </tr>
+  <tr>
+    <td>Content in the first column</td>
+    <td>Content in the second column</td>
   </tr>
 </table>
