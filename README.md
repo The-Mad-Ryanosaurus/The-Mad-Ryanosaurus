@@ -22,6 +22,7 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
             <!-- Your framework icons here -->
         </div>
     </div>
+    <div style="display: flex; justify-content: space-between;">
     <div style="display: flex; flex-direction: column;">
         <div>
             <h3>Backend and Databases</h3>
@@ -44,4 +45,5 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <div align="center">
     <h3>Socials</h3>
     <!-- Your social icons here -->
+</div>
 </div>
