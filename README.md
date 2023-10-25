@@ -33,26 +33,20 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<h3>Software Testing</h3>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a></td>
-  </tr>
-  <tr>
-    <td>Content in the first column</td>
-    <td>Content in the second column</td>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>First Header</th>
-    <th>Second Header</th>
+    <th>Software Testing</th>
+    <th>Game Engines</th>
+    <th>Platforms</th>
   </tr>
   <tr>
-    <td>Content from cell 1</td>
-    <td>Content from cell 2</td>
-  </tr>
-  <tr>
-    <td>Content in the first column</td>
-    <td>Content in the second column</td>
+    <td><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a></td>
+    <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" height="36" alt="Unity" /></a></td>
+    <td><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/69341/apple-logo.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></td>
   </tr>
 </table>
