@@ -14,20 +14,18 @@ I am an experienced Software Engineer with a solid foundation in frameworks such
 <table>
   <tr>
     <th>First Header</th>
-    <th>Second Header</th>
-    <th>Third Header</th>
-    <th>Fourth Header</th>
-  </tr>
-  <tr>
     <td>Content from cell 1</td>
+    <td>Content in the first column</td>
+    <th>Second Header</th>
     <td>Content from cell 2</td>
-    <td>Content for third header</td>
-    <td>Content for fourth header</td>
+    <td>Content in the second column</td>
   </tr>
   <tr>
-    <td>Content in the first column</td>
-    <td>Content in the second column</td>
+    <th>Third Header</th>
+    <td>Content for third header</td>
     <td>More content for third</td>
+    <th>Fourth Header</th>
+    <td>Content for fourth header</td>
     <td>More content for fourth</td>
   </tr>
 </table>
