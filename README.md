@@ -4,7 +4,7 @@ Ryan Harte
 Software Engineer, Developer, IT Support
 --------------------------------------------------
 
-I am an experienced Software Engineer with a solid foundation in frameworks such as React, Ionic and Angular. Language proficiences include JavaScript, TypeScript, C# and Java. I excel at problem-solving and am committed to continuous learning. Additionally, I offer expertise in IT Support and repairs, handling both computer systems and mobile devices with proficiency.
+I am a Computer Scientist with 5 years of experience in Software Development and 2 years in IT support. I am highly skilled in programming, network management, hardware maintenance and assembly, and delivering practical technical solutions. I thrive on problem-solving and excel in resource management. With a strong focus on organization, motivation, and attention to detail, I am dedicated to delivering high-quality work within strict deadlines.	
 
 * 🌍  I'm based in Limerick, Ireland
 * ✉️  You can contact me at [ryanharte@outlook.ie](mailto:ryanharte@outlook.ie)
